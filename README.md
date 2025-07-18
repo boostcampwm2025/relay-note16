@@ -34,6 +34,4 @@
 
 ---
 
-## 🗂️ 릴레이 구성
-
 [퀘스트 바로가기](https://github.com/boostcampwm2025/relay-note16/blob/main/week1.md)

@@ -2,18 +2,58 @@
 
 ## 🎯 주요 수정 사항
 
-###
+### 가독성
+
+- 마크다운 언어 활용, 동일한 포멧 사용
+
+### 새로운 퀘스트
+
+- 1번 삭제 및 새로운 퀘스트 제시
+
+### 구체화
+
+- 프롬포트 작성 및 달성 기준 확립
 
 ---
 
 ## 🔍 조사 내용
 
-- ***
+### 🎭 사회성 훈련과 역할 놀이
+
+- LLM 기반의 AI가 사회적 역할 놀이를 통해 사회성·회화 능력·갈등 해결 역량 향상에 효과적이라는 연구
+- 실습과 피드백을 결합하는 학습이론(사회학습, 경험학습 등)에 기반하여, 사용자 반응을 분석하고 즉시 개선 지점 안내로 사회 스킬을 향상시키는 도구로 활용됨
+- [🔗 Social Skill Training with Large Language Models (arXiv)](https://arxiv.org/abs/2404.04204?utm_source=chatgpt.com)
+- [🔗 AI Roleplay for Social Skills (Exec.com)](https://www.exec.com/learn/ai-roleplay-for-social-skills?utm_source=chatgpt.com)
+- [🔗 AI Conversational Roleplay in Education (Springer)]()
+
+### 🧠 면접 연습 및 AI 피드백
+
+- GPT 기반의 면접 시뮬레이터가 실제 평가자와 유사한 수준의 피드백을 제공하며, 반복 학습에 효과적임
+- 최근 연구에서는 GPT-3.5 기반 시스템이 생성한 평가가 실제 사람 평가자 평가와 높은 일치율을 보이며, 면접 답변 자동 채점 및 피드백 구현 가능성을 보여줌
+- [🔗 Conversate: AI-Powered Mock Interviews (arXiv)](https://arxiv.org/abs/2410.05570?utm_source=chatgpt.com)
+- [🔗 GPT-based Interview Evaluator Research (ResearchGate)](https://www.researchgate.net/publication/388387129_AI-driven_mock_interview_assessment_leveraging_generative_language_models_for_automated_evaluation?utm_source=chatgpt.com)
+
+### 🔊 비언어 피드백 및 대화 행동 분석
+
+- 음성 톤, 표정, 반복어, 시선 등 행동적 피드백을 AI가 실시간 제공하며 커뮤니케이션 스킬 강화에 도움을 줌.
+- [🔗 Ehsan Hoque 연구 소개 (Wikipedia)](https://en.wikipedia.org/wiki/Ehsan_Hoque_%28academic%29?utm_source=chatgpt.com)
+- [🔗 LISSA: AI Conversation Coach (ACM)](https://dl.acm.org/doi/full/10.1145/3544548.3581519)
+  [🔗 MACH 시스템 소개 (MIT News)](https://news.mit.edu/2013/computer-system-gives-accurate-interview-feedback-0225)
+
+### 📊 실제 사례 및 사용자 반응
+
+- 청소년부터 성인까지 AI 대화 도구를 실생활 커뮤니케이션에 응용한 사례 다수. 피드백 적용률도 높음.
+- [🔗 Teen Vogue - Teens Using ChatGPT for Social Practice](https://www.teenvogue.com/story/teens-are-turning-to-chatgpt-for-social-interaction?utm_source=chatgpt.com)
+- [🔗 Common Sense Media 2025 AI Usage Report (PDF)]()
+- [🔗 AI Hiring Trends (Jobma)](https://www.jobma.com/blog/the-impact-of-artificial-intelligence-on-hiring-processes-and-decision-making/?utm_source=chatgpt.com)
 - 구직자 중 4명이 AI를 활용해 취업을 준비한다
-  - 관련 링크 : [사람인 설문 결과](https://www.digitaltoday.co.kr/news/articleView.html?idxno=558747)
-- 공부할 때 휴식을 취해야하는 이유
-  - [학습과 휴식 번갈아 할때 기억력 향상되는 이유](https://www.hani.co.kr/arti/science/science_general/1002308.html)
-  - [공부 잘하고 싶다면 자주 멍 때리고 쉬어라](https://www.seoul.co.kr/news/society/science-news/honey/2021/06/11/20210611500141)
+- [🔗 사람인 설문 결과](https://www.digitaltoday.co.kr/news/articleView.html?idxno=558747)
+
+### 공부할 때 휴식을 취해야하는 이유
+- [🔗 학습과 휴식 번갈아 할때 기억력 향상되는 이유](https://www.hani.co.kr/arti/science/science_general/1002308.html)
+- [🔗 공부 잘하고 싶다면 자주 멍 때리고 쉬어라](https://www.seoul.co.kr/news/society/science-news/honey/2021/06/11/20210611500141)
+
+---
 
 ## ✔ 퀘스트 1. 세 번 말하면 한 번 쉬기
 
@@ -50,6 +90,8 @@
 - **일일 실행**: AI에게 질문하기 전에 프롬프트 템플릿 사용하기
 - **주간 공유**: AI의 도움을 받아 휴식한 횟수 기록하기
 - **참여도 측정**: 마무리할 때, 스스로의 휴식도(휴식한 정도)를 5점 만점으로 평가하기
+
+---
 
 ## ✔ 퀘스트 2. AI에게 일정관리 맡기기
 
@@ -132,37 +174,63 @@ AI에게 일정을 짜 달라고 하는 미션은 많지만 개개인의 컨디�
 
 ---
 
-## ✔ 퀘스트 4. `학습정리.md` 파일로부터 면접 질문 뽑아내기
+
+## ✔ 퀘스트 4. AI와 함께하는 기술 면접 시뮬레이션
 
 ### 💭 배경
 
-부스트캠프를 진행하며 작성한 `학습정리.md` 파일은 나만의 지식 저장소이다.
-하지만 그 내용을 얼마나 깊이 이해했는지 점검하기는 어렵다.
-실제로 추후 면접관이 그 내용을 물어본다면 대답하기 어려울 수 있다.
+`학습정리.md`는 나만의 지식 아카이브이자 성장의 기록이다. 하지만 그것을 **진짜 내 지식**으로 만들기 위해서는 **면접처럼 말하며 검증하는 과정**이 필요하다.
+이 퀘스트는 **AI와 대화하며 기술 면접을 시뮬레이션**하고, 기술력과 커뮤니케이션 역량까지 함께 점검할 수 있도록 설계되었다.
 
 ### 🎯 목적
 
+- **면접 대비**: 순발력과 꼬리 질문 대응력을 실전처럼 훈련
+- **기술 내재화**: 학습 내용을 말로 풀며 진짜로 이해하고 있는지 점검
+- **의사소통 개선**: 반복되는 말버릇이나 전달력 약점 피드백 받기
+
 ### 📝 진행 방법
 
-- 기능:
-  1. 학습한 내용을 AI를 통해 면접 질문 형태로 바꿔주는 프롬프트를 작성하기
-  2. 생성된 질문에 대해 답변을 직접 작성하기
-  3. 생성된 질문에 대한 답변을 해달라는 프롬프트를 작성하고, 직접 작성한 답변과 비교하기
+#### 프롬프트 1: 학습 내용 기억시키기
 
-### 🤖 AI 프롬프트 템플릿
+내가 정리한 `학습정리.md` 내용을 AI에게 전달하고, 기억시킨다.
 
-- 예시
-  ```
-  이것들은 내가 정리한 학습 내용이야. 이걸 바탕으로 면접관이 물어볼 만한 질문 N개를 만들어줘.
-  가능하면 기초, 심화 수준을 섞어서
-  ```
-  ```
-  이 내용에 대해 면접에서 나올 수 있는 질문을 만들어줘.
-  그리고 내가 대답할 때 놓치기 쉬운 핵심 포인트도 알려줘.
-  ```
+```text
+아래는 내가 정리한 학습 내용이야. 이 내용을 기억해줘. 이걸 바탕으로 기술 면접 시뮬레이션을 진행할 거야. 기억했으면 "OK"라고 대답해.
+```
+
+#### 프롬프트 2: 기술 면접 시뮬레이션 시작
+
+```text
+지금부터 넌 시니어 개발자고, 나는 이 내용으로 기술 면접을 보는 지원자야.
+총 5개의 질문을 던져줘. 각 질문마다 꼬리 질문 2개씩도 준비해줘.
+끝나고 나면 아래 항목 기준으로 나를 평가해줘:
+- 기술 이해도 (5점 만점)
+- 문제 해결 능력
+- 의사소통 능력
+- 표현력/언어습관
+- 심화 대응력
+
+또한, 내가 대답할 때 자주 쓰는 습관적 표현이나 더 좋은 말투가 있다면 그것도 함께 알려줘.
+마지막에는 내가 놓친 핵심 지식이나 추가로 공부해볼만한 것도 함께 추천해줘.
+```
+
+#### 면접 진행
+
+- 대답 중간에 꼬리 질문 등장
+- 구두 명접처럼 자유롭게 대화
+- 면접 종료 시 AI가 평가표와 피드백 제공
+
+### 🧾 면접 평가 항목 (각 5점 만점)
+
+| 항목                  | 평가 기준 설명                   |
+| --------------------- | -------------------------------- |
+| **기술 이해도**       | 개념을 정확하게 알고 있는가      |
+| **문제 해결 능력**    | 논리적이고 구조적으로 생각하는가 |
+| **의사소통 능력**     | 전달력, 대화 흐름, 어휘 선택     |
+| **표현력 / 언어습관** | 말버릇, 불필요한 반복 등         |
+| **심화 대응력**       | 꼬리 질문 대응 능력, 확장된 사고 |
 
 ### ✅ 달성 기준
 
-- **일일 실행**:
-- **주간 공유**:
-- **참여도 측정**:
+- **일일 실행**: 주 2회 이상, 다른 기술 주제로 시뮬레이션 진행
+- **주간 공유**: 매주 1회, 인상 깊었던 면접 세션을 커뮤니티에 공유 (질문+피드백 요약 포함)

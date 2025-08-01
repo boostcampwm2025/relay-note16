@@ -46,6 +46,10 @@
 - [🔗 학습과 휴식 번갈아 할때 기억력 향상되는 이유](https://www.hani.co.kr/arti/science/science_general/1002308.html)
 - [🔗 공부 잘하고 싶다면 자주 멍 때리고 쉬어라](https://www.seoul.co.kr/news/society/science-news/honey/2021/06/11/20210611500141)
 
+### 🧐 AI 기반 학습 로드맵 서비스 동향
+- [🔗 AI 수능](https://www.aitestprep.ai/intro)
+- [🔗 EBS와 손잡은 CT, 'AI 수능' 출시…수험생에 맞춤형 로드맵 제공](https://www.seoulweb3.co.kr/news/articleView.html?idxno=153)
+
 ---
 
 ## ✔ 퀘스트 1. 세 번 말하면 한 번 쉬기
@@ -143,10 +147,6 @@ AI에게 일정을 짜 달라고 하는 미션은 많지만 개개인의 컨디�
 ### 🎯 목적
 이 퀘스트에서는 나만의 든든한 AI 리서치 파트너를 만들어, 막연함을 줄이고 학습에 집중할 수 있게 돕는 것을 목표로 한다.
 AI에게 페르소나를 설정하고 로드맵을 추천받는 프롬프트를 작성해서, 혼자 하는 공부가 아니라 **같이 헤쳐 나가는 느낌**을 주는 도구를 만드는 것이 목적이다.
-
-### 🧐 관련 리서치
-EBS는 최근 교육 AI기업인 CT와 협력하여 인공지능 기반 학습 서비스 [AI 수능](https://www.aitestprep.ai/intro)을 출시했다. [[관련 기사]](https://www.seoulweb3.co.kr/news/articleView.html?idxno=153) AI 수능은 학생 개개인의 학습 데이터를 바탕으로 AI 로드맵을 제공하는 서비스이다.
-우리도 이런 흐름에 맞춰, 나만의 AI 학습 가이드를 만들어보면 좋을 것 같다.
 
 ### 📝 진행 방법
   1. Ai한테 어떤 페르소나를 연기하도록 명령하기

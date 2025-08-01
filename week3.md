@@ -11,6 +11,9 @@
 - ***
 - 구직자 중 4명이 AI를 활용해 취업을 준비한다
   - 관련 링크 : [사람인 설문 결과](https://www.digitaltoday.co.kr/news/articleView.html?idxno=558747)
+- 공부할 때 휴식을 취해야하는 이유
+  - [학습과 휴식 번갈아 할때 기억력 향상되는 이유](https://www.hani.co.kr/arti/science/science_general/1002308.html)
+  - [공부 잘하고 싶다면 자주 멍 때리고 쉬어라](https://www.seoul.co.kr/news/society/science-news/honey/2021/06/11/20210611500141)
 
 ## ✔ 퀘스트 1. 세 번 말하면 한 번 쉬기
 

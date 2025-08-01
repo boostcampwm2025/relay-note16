@@ -9,6 +9,8 @@
 ## 🔍 조사 내용
 
 - ***
+- 구직자 중 4명이 AI를 활용해 취업을 준비한다
+  - 관련 링크 : [사람인 설문 결과](https://www.digitaltoday.co.kr/news/articleView.html?idxno=558747)
 
 ## ✔ 퀘스트 1. 세 번 말하면 한 번 쉬기
 

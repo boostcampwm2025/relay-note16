@@ -235,3 +235,39 @@ AI에게 페르소나를 설정하고 로드맵을 추천받는 프롬프트를 
 
 - **일일 실행**: 주 2회 이상, 다른 기술 주제로 시뮬레이션 진행
 - **주간 공유**: 매주 1회, 인상 깊었던 면접 세션을 커뮤니티에 공유 (질문+피드백 요약 포함)
+
+<br />
+
+## 수행 기록
+
+> 실제 수행하신 내용을 아래에 기록해주세요!
+
+<details>
+
+<summary>J032_김동균</summary>
+
+</details>
+
+<br />
+
+<details>
+
+<summary>J075_김태균</summary>
+
+</details>
+
+<br />
+
+<details>
+
+<summary>J110_박서현</summary>
+
+</details>
+
+<br />
+
+<details>
+
+<summary>J146_송정호</summary>
+
+</details>

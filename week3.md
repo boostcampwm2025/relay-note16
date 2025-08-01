@@ -38,18 +38,17 @@
 - 음성 톤, 표정, 반복어, 시선 등 행동적 피드백을 AI가 실시간 제공하며 커뮤니케이션 스킬 강화에 도움을 줌.
 - [🔗 Ehsan Hoque 연구 소개 (Wikipedia)](https://en.wikipedia.org/wiki/Ehsan_Hoque_%28academic%29?utm_source=chatgpt.com)
 - [🔗 LISSA: AI Conversation Coach (ACM)](https://dl.acm.org/doi/full/10.1145/3544548.3581519)
-  [🔗 MACH 시스템 소개 (MIT News)](https://news.mit.edu/2013/computer-system-gives-accurate-interview-feedback-0225)
+- [🔗 MACH 시스템 소개 (MIT News)](https://news.mit.edu/2013/computer-system-gives-accurate-interview-feedback-0225)
 
 ### 📊 실제 사례 및 사용자 반응
 
 - 청소년부터 성인까지 AI 대화 도구를 실생활 커뮤니케이션에 응용한 사례 다수. 피드백 적용률도 높음.
 - [🔗 Teen Vogue - Teens Using ChatGPT for Social Practice](https://www.teenvogue.com/story/teens-are-turning-to-chatgpt-for-social-interaction?utm_source=chatgpt.com)
-- [🔗 Common Sense Media 2025 AI Usage Report (PDF)]()
 - [🔗 AI Hiring Trends (Jobma)](https://www.jobma.com/blog/the-impact-of-artificial-intelligence-on-hiring-processes-and-decision-making/?utm_source=chatgpt.com)
 - 구직자 중 4명이 AI를 활용해 취업을 준비한다
 - [🔗 사람인 설문 결과](https://www.digitaltoday.co.kr/news/articleView.html?idxno=558747)
 
-### 공부할 때 휴식을 취해야하는 이유
+### 📘 공부할 때 휴식을 취해야하는 이유
 - [🔗 학습과 휴식 번갈아 할때 기억력 향상되는 이유](https://www.hani.co.kr/arti/science/science_general/1002308.html)
 - [🔗 공부 잘하고 싶다면 자주 멍 때리고 쉬어라](https://www.seoul.co.kr/news/society/science-news/honey/2021/06/11/20210611500141)
 
@@ -227,7 +226,7 @@ EBS는 최근 교육 AI기업인 CT와 협력하여 인공지능 기반 학습 �
 #### 면접 진행
 
 - 대답 중간에 꼬리 질문 등장
-- 구두 명접처럼 자유롭게 대화
+- 구두 면접처럼 자유롭게 대화
 - 면접 종료 시 AI가 평가표와 피드백 제공
 
 ### 🧾 면접 평가 항목 (각 5점 만점)
